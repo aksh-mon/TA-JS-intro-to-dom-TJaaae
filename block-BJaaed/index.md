@@ -128,5 +128,7 @@ writeCode
       website: "https://shichuan.github.io/javascript-patterns/",
     },
   ],
+
 };
+
 ```

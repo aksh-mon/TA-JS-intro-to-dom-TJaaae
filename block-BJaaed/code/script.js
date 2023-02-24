@@ -141,7 +141,7 @@ let ul = document.querySelector("ul");
     h2.innerText = book.title;
     
     let h3 = document.createElement("h3");
-    h3.innerText = book.author;
+    h3.innerText ="Author:" + book.author;
 
     let button = document.createElement("button");
     button.innerText = "Buy Now";
